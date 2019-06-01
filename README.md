@@ -10,4 +10,8 @@ https://www.crystalreports.com/crystal-viewer/
 - Grupa Crystal Reports
 https://www.goldenline.pl/grupy/Komputery_Internet/crystal-reports/
 
+- Funkcje Crystal Reports
+Funkcje Crystal Reports.pdf
+
+
 
