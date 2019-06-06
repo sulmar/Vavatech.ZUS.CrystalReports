@@ -42,10 +42,10 @@ Funkcje Crystal Reports.pdf
 ## Parametry
 
 ### Parametr zakresowy
-![](images/2019-05-30_1057.png)
+![](images/2019-05-31_1057.png)
 
 ### Parametr wielowartościowy
-![](images/2019-05-30_1129.png)
+![](images/2019-05-31_1129.png)
 
 
 
